@@ -1,0 +1,17 @@
+#first {
+    background: green;
+    color: #fff;
+}
+
+.about {
+    text-align: left;
+}
+
+.why {
+    background-color: purple;
+    color: white;
+}
+
+.left {
+    margin-left: 0%30;
+}
